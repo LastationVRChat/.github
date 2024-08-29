@@ -1,6 +1,14 @@
-# Lastation
+<div align="center">
 
-Welcome to **Lastation**ǃ We’re a vibrant and welcoming community dedicated to creating a **safe, comfortable, and enjoyable environment** for all our members.
+---
+
+![Lastation](./media/Lastation_Logo_w_Text.png)
+
+# Welcome to **Lastation**ǃ We’re a vibrant and welcoming community dedicated to creating a **safe, comfortable, and enjoyable environment** for all our members.
+
+---
+
+</div>
 
 ## Why Join Us?
 
@@ -19,3 +27,4 @@ Welcome to **Lastation**ǃ We’re a vibrant and welcoming community dedicated t
 Looking to enhance your VRChat experience? Add our official [Lastation Package Listing](https://lastationvrchat.github.io/Lastation-Package-Listing/) to your [VRChat Creator Companion (VCC)](https://vcc.docs.vrchat.com/) and easily stay updated with all our public releases. 
 
 One of our **most popular packages** is the [**NSFW Locomotion**](https://github.com/LastationVRChat/NSFW-Locomotion), a **custom** *lewd* edit of the [GoGo Loco (by Franada)](https://www.gogoloco.net/) locomotion system.
+
