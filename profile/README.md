@@ -2,7 +2,7 @@
 
 ---
 
- <img src="./media/Lastation_Logo_w_Text.png" alt="Lastation" width="500" height="500"> 
+ <img src="./media/Lastation_Logo_w_Text.png" alt="Lastation" width="250" height="250"> 
 
 # Welcome to **Lastation**ǃ We’re a vibrant and welcoming community dedicated to creating a **safe, comfortable, and enjoyable environment** for all our members.
 
