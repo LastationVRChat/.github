@@ -8,6 +8,10 @@
 
 ---
 
+[![Lastation Discord](https://discord.com/api/guilds/979168103063765022/widget.png?style=banner2)](https://discord.gg/lastation)
+
+---
+
 </div>
 
 ## Why Join Us?
