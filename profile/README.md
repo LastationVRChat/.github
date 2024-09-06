@@ -28,7 +28,13 @@
 
 ## Discover Our VRChat Packages
 
-Looking to enhance your VRChat experience? Add our official [Lastation Package Listing](https://lastationvrchat.github.io/Lastation-Package-Listing/) to your [VRChat Creator Companion (VCC)](https://vcc.docs.vrchat.com/) and easily stay updated with all our public releases. 
+
+Looking to enhance your VRChat experience? Add our official [Lastation Package Listing](https://lastationvrchat.github.io/Lastation-Package-Listing/) to your [VRChat Creator Companion (VCC)](https://vcc.docs.vrchat.com/) and easily stay updated with all our public releases.
+
+<div align="center">
+
+[![add-to-vcc](https://github.com/user-attachments/assets/8168732b-c7d2-49b0-8bb2-afc4b4fef2cf)](https://lastationvrchat.github.io/Lastation-Package-Listing/)
+
+</div>
 
 One of our **most popular packages** is the [**NSFW Locomotion**](https://github.com/LastationVRChat/NSFW-Locomotion), a **custom** *lewd* edit of the [GoGo Loco (by Franada)](https://www.gogoloco.net/) locomotion system.
-
